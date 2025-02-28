@@ -27,7 +27,7 @@ To start the project, simply follow these steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone //FIX ME HERE
+   git clone git@github.com:JaaJPlayz/full-cs-rpa.git
    cd full-cs-rpa
    ```
 
