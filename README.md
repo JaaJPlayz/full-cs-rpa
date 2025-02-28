@@ -1,3 +1,5 @@
+## This is a temporary readme, it contains only the essencial information for now
+
 # How do I run this?
 
 - Ensure python, node, npm and dotnet are installed on your machine
