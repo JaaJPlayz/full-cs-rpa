@@ -106,7 +106,7 @@ Currently, there's a known issue where the backend bot only plays the game once.
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
