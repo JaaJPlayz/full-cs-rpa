@@ -18,3 +18,4 @@
 /home/hiago/code/personal/full-cs-rpa/backend/bin/Debug/net9.0/WebDriver.dll
 /home/hiago/code/personal/full-cs-rpa/backend/obj/Debug/net9.0/backend.csproj.AssemblyReference.cache
 /home/hiago/code/personal/full-cs-rpa/backend/obj/Debug/net9.0/backend.csproj.Up2Date
+/home/hiago/code/personal/full-cs-rpa/backend/obj/Debug/net9.0/backend.sourcelink.json

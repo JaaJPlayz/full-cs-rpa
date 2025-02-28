@@ -4,6 +4,7 @@ using OpenQA.Selenium;
 using var driver = new ChromeDriver();
 
 // localhost:5173
+// The frontend should be running on localhost:5173 locally for this to work
 driver.Url = "http://localhost:5173";
 
 Console.WriteLine("Hello, World!");
@@ -48,6 +49,10 @@ inputPassword.SendKeys(lastPartPassword);
 // Click the submit button
 var submitButton = driver.FindElement(By.TagName("button"));
 submitButton.Click();
+
+// Keep the console open
+Console.WriteLine("Press any key to exit...");
+Console.ReadKey();
 
 // Clear the input fields
 inputUsername.Clear();
